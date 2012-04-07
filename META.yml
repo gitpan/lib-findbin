@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:               lib-findbin
-version:            0.1
+version:            0.2
 abstract:           add paths to @INC relative to the directory the script resides in
 author:
     - Daniel Muey <http://drmuey.com/cpan_contact.pl>

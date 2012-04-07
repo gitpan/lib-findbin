@@ -5,7 +5,7 @@ use warnings;
 use FindBin ();
 use lib     ();
 
-$lib::findbin::VERSION = '0.1';
+$lib::findbin::VERSION = '0.2';
 
 sub import {
     shift;
@@ -29,7 +29,7 @@ lib::findbin - add paths to @INC relative to the directory the script resides in
 
 =head1 VERSION
 
-This document describes lib::findbin version 0.1
+This document describes lib::findbin version 0.2
 
 =head1 SYNOPSIS
 
